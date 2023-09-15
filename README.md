@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=23ajeet&label=Profile%20views&color=0e75b6&style=flat" alt="23ajeet" /> </p>
 
-- 🔭 I’m currently working on **Heartbeat Connections**
+- 🔭 I’m currently working on **Heartbeat Connections** and **Email Validation**
 
 - 🌱 I’m currently learning **html, css and javascript**
 
